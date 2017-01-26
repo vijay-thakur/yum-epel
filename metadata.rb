@@ -1,0 +1,7 @@
+name 'yum-epel'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures yum-epel'
+long_description 'Installs/Configures yum-epel'
+version '0.1.0'
